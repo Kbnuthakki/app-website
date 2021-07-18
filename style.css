@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: darkturquoise;
+}
+
+#games {
+    color: darkblue;
+    background-color: firebrick;
+    border-color: black;
+    border-style: ridge;
+    font-family: cursive;
+}
+
+.line {
+    color: dodgerblue;
+}
+
+#apps {
+    color: antiquewhite;
+    background-color: darksalmon;
+    border-color: gold;
+    border-style: dashed;
+    font-family: fantasy;
+}
+
+#chatbot {
+    color: chocolate;
+}
